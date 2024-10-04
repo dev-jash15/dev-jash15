@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on **Data Analysis Projects** and **Open Source Development**.
 - 📫 How to reach me: Feel free to connect with me via email at [jashpatel151199@gmail.com](mailto:jashpatel151199@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/iamjashpatel/).
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love exploring different types of **coding challenges** and enjoy **solving puzzles** in my free time!
+- ⚡ Fun fact: I love **solving puzzles** in my free time!
 
 ---
 
