@@ -58,17 +58,8 @@ I am a **Master of Science in Computer Science** graduate from the **University 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[dev-jash15]&show_icons=true&locale=en&theme=tokyonight" alt="Jash's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[YOUR-USERNAME]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jash's Top Languages" />
-</p>
-
----
-
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR-LINKEDIN-HANDLE]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash patel" height="30" width="40" /></a>
-<a href="https://[YOUR-WEBSITE-URL]/contact" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/internet.png" alt="My Website" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/imjashpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash patel" height="30" width="40" /></a>
+<a href="https://jashpatel-portfolio.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/internet.png" alt="My Website" height="30" width="30" /></a>
 </p>
