@@ -60,6 +60,6 @@ I am a **Master of Science in Computer Science** graduate from the **University 
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/imjashpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash patel" height="30" width="40" /></a>
-<a href="https://jashpatel-portfolio.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/internet.png" alt="My Website" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/iamjashpatel/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash patel" height="30" width="40" /></a>
+<a href="https://jashpatel-portfolio.netlify.app" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/internet.png" alt="My Website" height="30" width="30" /></a>
 </p>
